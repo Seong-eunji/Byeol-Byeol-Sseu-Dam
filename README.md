@@ -54,7 +54,7 @@
 
 
 ## 📌 사용기술
-- Java 11
+- Java
 - Spring Boot
 - JPA
 - QueryDSL
