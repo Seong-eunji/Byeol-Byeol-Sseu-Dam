@@ -98,25 +98,5 @@
     - 시간 상의 이유로 리팩토링 및 서버 배포를 진행하지 못한 점이 아쉽습니다.
 
 ## 📌 포트폴리오
-![001](https://user-images.githubusercontent.com/114063255/210559297-1bb9422a-2feb-460f-9ba0-5fa328e6aa57.png)
-![002](https://user-images.githubusercontent.com/114063255/210559307-01edb851-bab1-4820-9ad4-8778ebc246d2.png)
-![003](https://user-images.githubusercontent.com/114063255/210559309-e6b79e63-77e5-4627-94b6-8a6078f8a8ea.png)
-![004](https://user-images.githubusercontent.com/114063255/210559312-bdb54d75-b976-4f32-bc3b-2c9a072f30da.png)
-![005](https://user-images.githubusercontent.com/114063255/210559320-f4216eae-2890-46f9-aea2-0db8dcda3a50.png)
-![006](https://user-images.githubusercontent.com/114063255/210559328-b2f3618f-38ee-4110-a208-a801f4f02c7a.png)
-![007](https://user-images.githubusercontent.com/114063255/210559331-a6646b66-4a76-4aeb-90ca-340c2db4fee2.png)
-![008](https://user-images.githubusercontent.com/114063255/210559339-0a8fc17f-cfdb-4b1c-8f54-e3576ce2432b.png)
-![009](https://user-images.githubusercontent.com/114063255/210559344-8fca9234-0140-4169-b33e-684225489c0a.png)
-![010](https://user-images.githubusercontent.com/114063255/210559347-3e068a0b-106d-4213-af2b-fd0e83afedc5.png)
-![011](https://user-images.githubusercontent.com/114063255/210559354-e23615b7-a8e3-48c7-9ac7-ec020460c595.png)
-![012](https://user-images.githubusercontent.com/114063255/210559357-f28f1a72-70ec-4464-bb48-a02dfb30bc11.png)
-![013](https://user-images.githubusercontent.com/114063255/210559362-63159ee5-76d5-40b8-9851-1b49c211f460.png)
-![014](https://user-images.githubusercontent.com/114063255/210559370-a41286f4-c525-4d08-b6d3-783dfc311403.png)
-![015](https://user-images.githubusercontent.com/114063255/210559378-7147e790-4f18-4c0e-a638-06efd9f96700.png)
-![016](https://user-images.githubusercontent.com/114063255/210559383-7a6fb01a-55a5-4c95-bb18-8c7ead8a098d.png)
-![017](https://user-images.githubusercontent.com/114063255/210559392-4f03f844-d7be-4eac-9555-24680847d0ed.png)
-![018](https://user-images.githubusercontent.com/114063255/210559399-6709d6d1-e5f7-448a-80fa-1737777623df.png)
-![019](https://user-images.githubusercontent.com/114063255/210559408-1fa90d05-9860-4ab0-9abd-897830dadb55.png)
-![020](https://user-images.githubusercontent.com/114063255/210559414-44047889-7c8f-442e-9dd9-8f0425c6e827.png)
-![021](https://user-images.githubusercontent.com/114063255/210559425-2653e77f-cc5c-41d6-acfd-8d96eaf89401.png)
+![별별쓰담portfolio](https://user-images.githubusercontent.com/114063255/212305083-8c81cf4f-1dea-48cc-bb3c-977b65ddeb1f.png)
 
